@@ -1,2 +1,1 @@
-# hello-world
-My first git repository
+#First line of code
